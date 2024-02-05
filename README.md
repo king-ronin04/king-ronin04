@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Yadav</h1>
 <h3 align="center">A passionate and self-motivated Web Developer, equipped with excellent problem-solving skills. Open to new technologies and seek new challenges.</h3>
-- 💬 Ask me about **C++**
+- 💬 Ask me about: C++ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
